@@ -1,5 +1,3 @@
-# Untitled
-
 # THEM?!CTF Chall Writeup
 
 ## Challenge
