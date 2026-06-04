@@ -1,5 +1,3 @@
-# THEM?!CTF Chall Writeup
-
 ## Challenge
 
 Category: reversing. Difficulty: warmup. Flag format: `THEM?!CTF{...}`.
